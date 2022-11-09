@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_795368_innovate_innovative">x_795368_innovate_innovative</category>
+        <maximum_digits>6</maximum_digits>
+        <number>1000</number>
+        <prefix>INV</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 07:12:15</sys_created_on>
+        <sys_id>1df6547d2f4351102529a55df699b6ff</sys_id>
+        <sys_name>INV</sys_name>
+        <sys_package display_value="Innovate" source="x_795368_innovate">69055c392f4351102529a55df699b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">69055c392f4351102529a55df699b62b</sys_scope>
+        <sys_update_name>sys_number_1df6547d2f4351102529a55df699b6ff</sys_update_name>
+    </sys_number>
+</record_update>
